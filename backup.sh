@@ -6,3 +6,4 @@ if [ -d /backup ] then
     echo 'Directory exists'
 fi
 # New feature: check disk space
+df -h
