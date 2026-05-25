@@ -7,3 +7,4 @@ if [ -d /backup ] then
 fi
 # New feature: check disk space
 df -h
+df -h
